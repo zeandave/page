@@ -1,0 +1,116 @@
+body {
+	background-color:#e1ce7a;
+	color: #424b54;
+    text-align: justify ;
+    font-family: 'Acme', sans-serif;
+
+
+}
+ .navbar-default {
+  background-color:#f5fbef;
+  
+ }
+.nav.navbar-nav li a {
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+.navbar-default .navbar-brand {
+    color: #ff54f9;
+    font-family: 'Open Sans', sans-serif;
+}
+.rock{
+background-image: url(https://images.unsplash.com/photo-1477290813395-11a3d65976fe?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=63d7bece656fd7b2addba7e03ab89154);
+background-size: cover;
+background-position: center; 
+padding-top: 200px;
+padding-bottom: 200px;
+font-family: 'Covered By Your Grace', cursive;
+}
+h1 {
+	margin-top: 5%;
+	font-weight: 900;
+	font-size: 5em;
+	color: white;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+
+}
+#oh{
+	font-weight: 300px;
+	font-size: 2em;
+	color: white;
+}
+hr {
+    width: 100%;
+    border-top: 3px dotted #144543;
+    border-bottom: 3px dotted rgba(0,0,0,0.2);
+}
+p{
+	 font-size: 1.5em;
+
+}
+#first{
+
+	margin-left: 10%;
+	font-weight:200px;
+}
+.content{
+	margin-bottom: 2%;
+
+}
+.btn-primary{
+	background-color: #f44242;
+	border-color: #f44242;
+}
+.big{
+	margin-left: 2%;
+}
+#ht{
+	color: #f26321;
+}
+.bar{
+	color: yellow;
+	font-family: 'Permanent Marker"', cursive;
+}
+.progress-bar-striped{
+
+	background-color: #0e9e7e;
+}
+#port{
+	background-color: #424b54;
+	background-size: cover;
+}
+#contact{
+
+	background-color: #f0def2;
+	padding-bottom: 5%;
+}
+.heads{
+
+	color: rgba(255,10,10,2);
+}
+.cat{
+   transition: color 0.5s;
+  color: gray;
+}
+.cat:hover {
+  color: black;
+}
+.ball{
+   transition: color 0.5s;
+  color: blue;
+}
+.ball:hover {
+  color: red;
+}
+.mon{
+   transition: color 0.5s;
+  color: green;
+}
+.mon:hover {
+  color: gold;
+}
+.ma{
+	margin-right: 2%;
+}
